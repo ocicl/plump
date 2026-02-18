@@ -4,6 +4,6 @@ Practically Lenient and Unimpressive Markup Parser for Common Lisp
 
 |---------+-------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/plump.git |
-| commit  | 0000000                                   |
+| commit  | 251fbe0                                   |
 | systems | plump plump-dom plump-lexer plump-parser  |
 |---------+-------------------------------------------|
